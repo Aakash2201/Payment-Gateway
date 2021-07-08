@@ -53,15 +53,4 @@ body
   padding: 5%;
 }
 
-.bottom-container
-{
-  background-color: #ff8882;
-  margin: 7% 0 0 0;
-  height: 150px;
-}
 
-.bottom-container a
-{
-  position: relative;
-  top: 30%
-}
